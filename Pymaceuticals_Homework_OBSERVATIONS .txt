@@ -1,0 +1,13 @@
+Pymaceuticals Homework : OBSERVATIONS 
+April Doster
+
+
+1) Capomulín was the most effective in shrinking tumors. (Infubinol and Ketapril were very similar to the placebo)
+2) Capomulin showed the best efficacy on slowing down the metastatic spread (remaining below 1.5 met sites after 45 days of treatment). Infubinol was the next best.
+3) Capomulin gave the best survival rate of the three drugs, during treatment, as it remained over 85% survival rate during treatment. Ketapril provided slightly better survival rates than the placebo but Infubinol gave the worst survival rates.
+
+SUMMARY:
+1) The most effective drug is Capomulin; visible shrinking of tumors, with low increases in metastatic spreads and a survival rate over 80% 
+2) Ketapril is the least effective drug; showed no visible shrinking, increases in metastatic spreads and very low survival rate (less than 50%) 
+3) While Infubinol showed better results than Ketapril, its efficacy is slightly better than a placebo so is NOT considered a candidate for patients.
+
